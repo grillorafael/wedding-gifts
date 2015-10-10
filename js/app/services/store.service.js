@@ -8,7 +8,7 @@
             list: function() {
                 var deferref = $q.defer();
 
-                $http.get('/data/store.json').success(deferref.resolve).error(deferref.reject);
+                $http.get('data/store.json').success(deferref.resolve).error(deferref.reject);
 
                 return deferref.promise;
             }
