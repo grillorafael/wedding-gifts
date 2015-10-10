@@ -1,0 +1,43 @@
+<div class="filters">
+    <label>
+        Ordenar Por&nbsp;
+    </label>
+    <select ng-model='sort'>
+        <option value="name">Nome</option>
+        <option value="-price">Preço(Maior para o Menor)</option>
+        <option value="price">Preço(Menor para o Maior)</option>
+    </select>
+    <span class="spandex"></span>
+</div>
+<div class="wrapper">
+    <div class="product" status="{{product.status}}" ng-repeat='product in products | orderBy:sort'>
+        <section class="image" ng-class='product.position' ng-style='{
+            "background-image": "url(" + product.image + ")"
+        }'></section>
+        <section class="content">
+            <p>
+                {{product.name}}
+            </p>
+            <p>
+                <strong class="price">{{product.price | finance:true:2}}</strong>
+            </p>
+            <form method="post" target="pagseguro" action="https://pagseguro.uol.com.br/v2/checkout/payment.html">
+                <input name="receiverEmail" type="hidden" value="grillorafael@gmail.com">
+                <input name="currency" type="hidden" value="BRL">
+
+                <input name="itemId1" type="hidden" value="0001">
+                <input name="itemDescription1" type="hidden" value="{{product.name}}">
+                <input name="itemAmount1" type="hidden" value="{{product.price | toFixed}}">
+                <input name="itemQuantity1" type="hidden" value="1">
+
+                <input name="encoding" type="hidden" value="utf8">
+
+                <button>
+                    Comprar
+                </button>
+                <!-- <input alt="Pague com PagSeguro" name="submit" type="image" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/pagamentos/120x53-pagar.gif" /> -->
+            </form>
+        </section>
+    </div>
+
+</div>

@@ -1,0 +1,143 @@
+[
+    {
+        "name": "Geladeira",
+        "status": "a",
+        "image": "http://oinformante.org/img/fotos/geladeira%20Bosch%202.jpg",
+        "price": 2000.00
+    },
+    {
+        "name": "Fogão",
+        "status": "a",
+        "image": "http://picscdn.redblue.de/doi/pixelboxx-mss-60109138/fee_786_587_png/SIEMENS-EQ231EK03B-Einbauherdset-%28Elektro-Kochfeld--A--67-Liter%29",
+        "price": 2000.00
+    },
+    {
+        "name": "Lava Louça",
+        "status": "a",
+        "image": "http://picscdn.redblue.de/doi/pixelboxx-mss-66469585/fee_786_587_png/BOSCH-SMV63M80EU--Geschirrsp%C3%BCler--A-----598-mm-breit--44-dB-%28A%29--Edelstahl",
+        "price": 1200.00
+    },
+    {
+        "name": "Lava Roupa",
+        "status": "a",
+        "image": "http://www.ikea.com/ie/en/images/products/renlig-fwm7-washing-machine-white__0372857_pe552046_s4.jpg",
+        "price": 1500.00
+    },
+    {
+        "name": "Steamer",
+        "status": "a",
+        "image": "http://thumbs.buscape.com.br/passadeira-a-vapor/electrolux-gst10/__300x300-PU96276_1.jpg?v=3384617609",
+        "price": 380.00,
+        "position": "center"
+    },
+    {
+        "name": "Vassoura Elétrica",
+        "status": "a",
+        "image": "http://vidaorganizada.com/wp-content/uploads/2012/01/aspirador1.jpg",
+        "price": 500.00
+    },
+    {
+        "name": "Microondas",
+        "status": "a",
+        "image": "http://i.mlcdn.com.br/1500x1500/micro-ondas-brastemp-ative-bmj38ar38l-inox-com-funcao-grill-084243100.jpg",
+        "price": 350.00,
+        "position": "center"
+    },
+    {
+        "name": "Forninho",
+        "status": "a",
+        "image": "http://prdresources2-a.akamaihd.net/wcsstore/FastShopCAS/imagens/_UT_Utilidades/EXEOC30/V3/EXEOC30_PRD_447_1.jpg",
+        "price": 270.00
+    },
+    {
+        "name": "Liquidificador",
+        "status": "a",
+        "image": "http://ishop.s8.com.br/produtos/01/00/item/113826/1/113826141SZ.jpg",
+        "price": 170.00
+    },
+    {
+        "name": "TV",
+        "status": "a",
+        "image": "http://i.ytimg.com/vi/y8qatuBP2Ng/maxresdefault.jpg",
+        "price": 3000.00
+    },
+    {
+        "name": "Time Capsule",
+        "status": "a",
+        "image": "http://store.storeimages.cdn-apple.com/4724/as-images.apple.com/is/image/AppleInc/aos/published/images/M/E1/ME177/ME177?wid=572&hei=572&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1400974235303",
+        "price": 1300.00
+    },
+    {
+        "name": "Batedeira",
+        "status": "a",
+        "image": "http://thumbs.buscape.com.br/batedeira/planetaria-arno-deluxe-inox/__300x300-PU34c3c_1.jpg?v=3878707072",
+        "price": 399.00
+    },
+    {
+        "name": "Aparelho de Jantar",
+        "status": "a",
+        "image": "http://www.domi.com.br/Imagens/produtos/67/21267/21267_Ampliada.jpg",
+        "price": 250.00
+    },
+    {
+        "name": "Panela de Pressão",
+        "status": "a",
+        "image": "http://i.mlcdn.com.br/1500x1500/panela-de-pressao-aluminio-8-litrostramontina-valencia-20563-024-202512600.jpg",
+        "price": 250.00
+    },
+    {
+        "name": "Nespresso",
+        "status": "a",
+        "image": "http://shoppingspirit.pt/wp-content/uploads/2013/10/inissia-o-inicio-de-uma-nova-paixao.jpg",
+        "price": 399.00
+    },
+    {
+        "name": "Cafeteira",
+        "status": "a",
+        "image": "http://prdresources3-a.akamaihd.net/wcsstore/FastShopCAS/imagens/_UT_Utilidades/EXCMP10/V3/EXCMP10_PRD_447_1.jpg",
+        "price": 399.00
+    },
+    {
+        "name": "Cota da Lua de Mel",
+        "status": "a",
+        "image": "http://blog.emotion.me/wp-content/uploads/2013/04/17a110960f3a36781afae5484f999759.jpg",
+        "price": 350.00,
+        "position": "center"
+    },
+    {
+        "name": "Escada",
+        "status": "a",
+        "image": "http://www.portaldasideias.org/wp-content/uploads/2012/01/escadas-dobr%C3%A1veis-para-cozinha.jpg",
+        "price": 150.00
+    },
+    {
+        "name": "Aparelho de Chá",
+        "status": "a",
+        "image": "http://i.mlcdn.com.br/1500x1500/aparelho-de-cha-e-cafe-plus-renda-branca-53-pecasem-porcelana-schmidt-088042500.jpg",
+        "price": 250.00
+    },
+    {
+        "name": "Taça de Vinho",
+        "status": "a",
+        "image": "http://i.mlcdn.com.br/1500x1500/conjunto-de-tacas-6-pecasnadir-barone-142245200.jpg",
+        "price": 150.00
+    },
+    {
+        "name": "Máquina de Secar",
+        "status": "a",
+        "image": "http://i.mlcdn.com.br/1500x1500/secadora-de-roupas-brastemp-10kg-ative-bsr10abcom-12-programas-de-secagem-e-porta-reversivel-011602200.jpg",
+        "price": 1500.00
+    },
+    {
+        "name": "Bandeja",
+        "status": "a",
+        "image": "http://www.zenybalancas.com.br/produtos/alumini-ferro/Bandeja/AluminioABC_LinhaHotelaria_bandeja-retangular.jpg",
+        "price": 100.00
+    },
+    {
+        "name": "Mixer",
+        "status": "a",
+        "image": "http://www.girafa.com.br/visao/default/img/produtos/Eletroportateis/Mixer/539-1314029749-mixer-walita-ri1364-walita-3-em-1-c-batedor-de-massas-branco-110v-1.jpg",
+        "price": 150.00
+    }
+]
