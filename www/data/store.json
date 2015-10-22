@@ -47,13 +47,7 @@
         "name": "Forninho",
         "status": "a",
         "image": "http://prdresources2-a.akamaihd.net/wcsstore/FastShopCAS/imagens/_UT_Utilidades/EXEOC30/V3/EXEOC30_PRD_447_1.jpg",
-        "price": 270.00
-    },
-    {
-        "name": "Liquidificador",
-        "status": "a",
-        "image": "http://ishop.s8.com.br/produtos/01/00/item/113826/1/113826141SZ.jpg",
-        "price": 170.00
+        "price": 300.00
     },
     {
         "name": "TV",
@@ -77,13 +71,13 @@
         "name": "Aparelho de Jantar",
         "status": "a",
         "image": "http://www.domi.com.br/Imagens/produtos/67/21267/21267_Ampliada.jpg",
-        "price": 250.00
+        "price": 300.00
     },
     {
         "name": "Panela de Pressão",
         "status": "a",
         "image": "http://i.mlcdn.com.br/1500x1500/panela-de-pressao-aluminio-8-litrostramontina-valencia-20563-024-202512600.jpg",
-        "price": 250.00
+        "price": 300.00
     },
     {
         "name": "Nespresso",
@@ -105,39 +99,15 @@
         "position": "center"
     },
     {
-        "name": "Escada",
-        "status": "a",
-        "image": "http://www.portaldasideias.org/wp-content/uploads/2012/01/escadas-dobr%C3%A1veis-para-cozinha.jpg",
-        "price": 150.00
-    },
-    {
         "name": "Aparelho de Chá",
         "status": "a",
         "image": "http://i.mlcdn.com.br/1500x1500/aparelho-de-cha-e-cafe-plus-renda-branca-53-pecasem-porcelana-schmidt-088042500.jpg",
-        "price": 250.00
-    },
-    {
-        "name": "Taça de Vinho",
-        "status": "a",
-        "image": "http://i.mlcdn.com.br/1500x1500/conjunto-de-tacas-6-pecasnadir-barone-142245200.jpg",
-        "price": 150.00
+        "price": 300.00
     },
     {
         "name": "Máquina de Secar",
         "status": "a",
         "image": "http://i.mlcdn.com.br/1500x1500/secadora-de-roupas-brastemp-10kg-ative-bsr10abcom-12-programas-de-secagem-e-porta-reversivel-011602200.jpg",
         "price": 1500.00
-    },
-    {
-        "name": "Bandeja",
-        "status": "a",
-        "image": "http://www.zenybalancas.com.br/produtos/alumini-ferro/Bandeja/AluminioABC_LinhaHotelaria_bandeja-retangular.jpg",
-        "price": 100.00
-    },
-    {
-        "name": "Mixer",
-        "status": "a",
-        "image": "http://www.girafa.com.br/visao/default/img/produtos/Eletroportateis/Mixer/539-1314029749-mixer-walita-ri1364-walita-3-em-1-c-batedor-de-massas-branco-110v-1.jpg",
-        "price": 150.00
     }
 ]
